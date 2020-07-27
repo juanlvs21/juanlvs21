@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as **An independent developer**
 
-- 👨‍💻 All of my projects are available at [https://juanlvs.netlify.com/](https://juanlvs.netlify.com/)
+- 👨‍💻 All of my projects are available at [https://juanlvs.ml/](https://juanlvs.ml/)
 
 - ⚡ Fun fact **Programming and learning about technology for me is quite entertaining, more than any game**
 
