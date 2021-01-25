@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Villarroel</h1>
-<h3 align="center">Frontend Developer 🚀 | Curious of birth 🔎 | | Cat lover 🐱 |</h3>
+<h3 align="center">Frontend Developer 🚀 | Curious of birth 🔎 | Cat lover 🐱 |</h3>
 
 ![juanlvs21](https://i.imgur.com/BQ9xwxB.png)
 
