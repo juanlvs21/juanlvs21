@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Juan Villarroel</h1>
 <h3 align="center">Frontend Developer 🚀 | Curious of birth 🔎 | Cat lover 🐱</h3>
 
+<p align="center">
 ![juanlvs21](https://i.imgur.com/BQ9xwxB.png)
+</p>
 
 - 🔭 I’m currently working as **An independent developer**
 - 🌱 I’m currently learning **Dart and Flutter**
@@ -39,4 +41,4 @@
     </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanlvs21&show_icons=true&locale=en&layout=compact" alt="juanlvs21" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=juanlvs21&show_icons=true&locale=en&layout=compact" alt="juanlvs21" /></p>
