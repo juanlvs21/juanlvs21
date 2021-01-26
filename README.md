@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer 🚀 | Curious of birth 🔎 | Cat lover 🐱</h3>
 
 <p align="center">
-![juanlvs21](https://i.imgur.com/BQ9xwxB.png)
+    <img  src="https://i.imgur.com/BQ9xwxB.png" alt="juanlvs21" />
 </p>
 
 - 🔭 I’m currently working as **An independent developer**
