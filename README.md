@@ -10,12 +10,6 @@
 - 👨‍💻 All of my projects are available at [https://juanlvs.ml/](https://juanlvs.ml/)
 - ⚡ Fun fact **Programming and learning about technology for me is quite entertaining, more than any game**
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/juanlvs21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="juanlvs21" height="20" width="30" /></a>
-<a href="https://linkedin.com/in/juanlvs21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="juanlvs21" height="20" width="30" /></a>
-</p>
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -42,3 +36,10 @@
 </p>
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=juanlvs21&show_icons=true&locale=en&layout=compact" alt="juanlvs21" /></p>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/juanlvs21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="juanlvs21" height="20" width="30" /></a>
+<a href="https://linkedin.com/in/juanlvs21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="juanlvs21" height="20" width="30" /></a>
+</p>
+
