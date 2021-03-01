@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 I’m currently working as **An independent developer**
-- 🌱 I’m currently learning **Dart and Flutter**
+- 🌱 I’m currently learning **React Native**
 - 👨‍💻 All of my projects are available at [https://juanlvs.ml/](https://juanlvs.ml/)
 - ⚡ Fun fact **Programming and learning about technology for me is quite entertaining, more than any game**
 
