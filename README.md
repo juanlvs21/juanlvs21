@@ -5,7 +5,7 @@
     <img  src="https://i.imgur.com/BQ9xwxB.png" alt="juanlvs21" />
 </p>
 
-- 🔭 I’m currently working  as a **Frontend Developer** at [Sting](https://www.sting.net/)
+- 🔭 I’m currently working  as a **Frontend Developer** at [Sting Marketing](https://www.sting.net/)
 - 🌱 I’m currently learning **React Native**
 - 👨‍💻 All of my projects are available at [https://juanlvs.ml/](https://juanlvs.ml/)
 - ⚡ Fun fact: **Programming and learning about technology for me is quite entertaining, more than any game**
