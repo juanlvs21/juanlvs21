@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working  as a **Frontend Developer** at [Matic.io ](https://matic.io)
 - 🌱 I’m currently learning **AWS Cloud and Jenkins**
-- 👨‍💻 All of my projects are available at [https://juanlvs.ml/](https://juanlvs.ml/)
+- 👨‍💻 All of my projects are available at [https://juanl.dev](https://www.juanl.dev)
 - ⚡ Fun fact: **Programming and learning about technology for me is quite entertaining, more than any game**
 
 <h3 align="center">Languages and Tools:</h3>
