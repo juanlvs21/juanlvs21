@@ -5,7 +5,7 @@
     <img  src="https://i.imgur.com/BQ9xwxB.png" alt="juanlvs21" />
 </p>
 
-- 🔭 I’m currently working  as a **Frontend Developer** at **[Matic.io ](https://matic.io) **
+- 🔭 I’m currently working  as a **Frontend Developer** at [Matic.io ](https://matic.io)
 - 🌱 I’m currently learning **AWS Cloud and Jenkins**
 - 👨‍💻 All of my projects are available at [https://juanlvs.ml/](https://juanlvs.ml/)
 - ⚡ Fun fact: **Programming and learning about technology for me is quite entertaining, more than any game**
