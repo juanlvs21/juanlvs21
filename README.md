@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 I’m currently working  as a **Frontend Developer** at [Matic.io ](https://matic.io)
-- 🌱 I’m currently learning **AWS Cloud and Jenkins**
+- 🌱 I’m currently learning **Kubernetes**
 - 👨‍💻 All of my projects are available at [juanl.dev](https://www.juanl.dev)
 - ⚡ Fun fact: **Programming and learning about technology for me is quite entertaining, more than any game**
 
