@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 I’m currently working  as a **Frontend Developer**
-- 🌱 I’m currently learning **SvelteKit**
+- 🌱 I’m currently learning **NestJS**
 - 👨‍💻 All of my projects are available at [juanl.dev](https://www.juanl.dev)
 - ⚡ Fun fact: **Programming and learning about technology for me is quite entertaining, more than any game**
 
