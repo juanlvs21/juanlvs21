@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working  as a **Frontend Developer**
 - 🌱 I’m currently learning **NestJS**
-- 👨‍💻 All of my projects are available at [juanl.dev](https://www.juanl.dev)
+- 👨‍💻 All of my projects are available at [juanl.dev](https://juanl.dev)
 - ⚡ Fun fact: **Programming and learning about technology for me is quite entertaining, more than any game**
 
 <h3 align="center">Languages and Tools:</h3>
