@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 I’m currently working  as a **Frontend Developer**
-- 🌱 I’m currently learning **NestJS**
+- 🌱 I’m currently learning **[Turborepo](https://turbo.build/repo/docs)**
 - 👨‍💻 All of my projects are available at [juanl.dev](https://juanl.dev)
 - ⚡ Fun fact: **Programming and learning about technology for me is quite entertaining, more than any game**
 
