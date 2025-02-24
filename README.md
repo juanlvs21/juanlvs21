@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer 🚀 | Curious of birth 🔎 | Cat lover 🐱</h3>
 
 <p align="center">
-    <img  src="[https://i.imgur.com/BQ9xwxB.png](https://media.licdn.com/dms/image/v2/D5616AQHP4K8LqD-a4w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738639874704?e=1746057600&v=beta&t=XDdq0ab2z-KoszbzfV8KSztcu2Dl4NpieYSjL3-_-gY)" alt="juanlvs21" />
+    <img  src="https://media.licdn.com/dms/image/v2/D5616AQHP4K8LqD-a4w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738639874704?e=1746057600&v=beta&t=XDdq0ab2z-KoszbzfV8KSztcu2Dl4NpieYSjL3-_-gY" alt="juanlvs21" />
 </p>
 
 - 🔭 I’m currently working  as a **Backend Developer**
