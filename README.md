@@ -5,8 +5,8 @@
     <img  src="https://i.imgur.com/BQ9xwxB.png" alt="juanlvs21" />
 </p>
 
-- 🔭 I’m currently working  as a **Frontend Developer**
-- 🌱 I’m currently learning **[Turborepo](https://turbo.build/repo/docs)**
+- 🔭 I’m currently working  as a **Backend Developer**
+- 🌱 I’m currently learning **FastAPI**
 - 👨‍💻 All of my projects are available at [juanl.dev](https://juanl.dev)
 - ⚡ Fun fact: **Programming and learning about technology for me is quite entertaining, more than any game**
 
