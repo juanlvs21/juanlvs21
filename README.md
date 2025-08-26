@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 I’m currently working  as a **FullStack Developer**
-- 🌱 I’m currently learning **Python and Flask**
+- 🌱 I’m currently learning **Python and FastAPI**
 - 👨‍💻 All of my projects are available at [juanl.dev](https://juanl.dev)
 - ⚡ Fun fact: **Programming and learning about technology for me is quite entertaining, more than any game**
 
